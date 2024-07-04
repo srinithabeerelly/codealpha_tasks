@@ -1,6 +1,6 @@
 # Music_Recommender_System Using spotify data set
 1. *Data Collection:*
-   - Dataset Link: https://www.kaggle.com/datasets/notsh...
+   - Dataset Link: https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset
 
 2. *Text Preprocessing:*
    - Clean and preprocess the text by removing special characters, punctuation, and converting all letters to lowercase.
